@@ -1,0 +1,1 @@
+pandoc -s "9.如何分析公司业务 - 附图版本.docx" -o "9.如何分析公司业务 - 附图版本.md" -t gfm --extract-media=images
